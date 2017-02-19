@@ -1,9 +1,6 @@
 # GSA Digital Innovation Hackathon
 http://open.gsa.gov/Digital-Innovation-Hackathon/
 
-# gsa-hackathon-PBS Tenant Satisfaction
-GSA Hackathon  - PBS Tenant Satisfaction
-
 # Challenge
 GSA's Public Buildings Service (PBS) acquires and manages thousands of federal properties, providing workplaces for federal customer agencies
 
